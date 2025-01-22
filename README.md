@@ -1,8 +1,12 @@
 Cute penguin with appealing design:
+
 -multiple transformed elements:
+
 -rotation;
+
 -resizing;
--bakcground modifications.
+
+-background modifications.
 
 
 
